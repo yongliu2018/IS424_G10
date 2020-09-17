@@ -1,0 +1,63 @@
+# Metadata for Households by Monthly Household Income and Working Status/Occupation of Main Income Earner
+---
+Identifier: '69e2804e-a09f-490b-91b5-6b1f780cc3a5'
+Name: 'households-by-monthly-household-income-and-working-status-occupation-of-main-income-earner'
+Title: 'Households by Monthly Household Income and Working Status/Occupation of Main
+  Income Earner'
+Description: 'The Singapore Department of Statistics undertakes the Household Expenditure
+  Survey (HES) once in 5 years to collect detailed information from resident households
+  in Singapore. The latest HES was conducted from Oct 2012 to Sep 2013. Topics covered
+  include household consumption expenditure, households'' income, socio-economic characteristics
+  and ownership of selected consumer durables.'
+Topics:
+  - 'Society'
+Keywords:
+  - 'Household Expenditure Survey'
+  - 'Income from All Source'
+  - 'Occupation of Main Income Earner'
+  - 'Working Status of Main Income Earner'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Statistics Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=3969&exportType=csv'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Other'
+Coverage: '2013-01-01 to 2013-12-31'
+Last Updated: '2018-10-26T21:19:48.982384'
+Resources:
+  -
+    Identifier: '766cd514-3eac-4aa3-a5c5-089b11770956'
+    Title: 'Distribution of Households by MHI and Working Status/Occupation of Main
+      Income Earner'
+    Url: 'https://storage.data.gov.sg/households-by-monthly-household-income-and-working-status-occupation-of-main-income-earner/resources/distribution-of-households-by-mhi-and-working-status-occupation-of-main-income-earner-2018-10-26T21-19-48Z.csv'
+    Format: 'CSV'
+    Coverage: '2013-01-01 to 2013-12-31'
+    Last Updated: '2018-10-26T21:19:48.221420'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Working Status/Occupation of Main Income Earner'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Monthly Income Group'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Per Cent'

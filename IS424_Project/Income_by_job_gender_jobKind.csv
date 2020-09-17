@@ -1,0 +1,65 @@
+﻿Monthly_income_range,count1,Count2,Gender,Job_Type
+Under  $500,1.8,1800,Males,FullTime
+Under  $500,2.2,2200,Females,FullTime
+Under  $500,11.8,11800,Males,PartTime
+Under  $500,23.8,23800,Females,PartTime
+$     500    -    $    999,11.8,11800,Males,FullTime
+$     500    -    $    999,12.4,12400,Females,FullTime
+$     500    -    $    999,26.0,26000,Males,PartTime
+$     500    -    $    999,51.7,51700,Females,PartTime
+"$  1,000    -    $  1,499",61.8,61800,Males,FullTime
+"$  1,000    -    $  1,499",68.6,68600,Females,FullTime
+"$  1,000    -    $  1,499",26.4,26400,Males,PartTime
+"$  1,000    -    $  1,499",41.8,41800,Females,PartTime
+"$  1,500    -    $  1,999",77.3,77300,Males,FullTime
+"$  1,500    -    $  1,999",73.1,73100,Females,FullTime
+"$  1,500    -    $  1,999",11.0,11000,Males,PartTime
+"$  1,500    -    $  1,999",10.6,10600,Females,PartTime
+"$  2,000    -    $  2,499",96.6,96600,Males,FullTime
+"$  2,000    -    $  2,499",80.9,80900,Females,FullTime
+"$  2,000    -    $  2,499",5.4,5400,Males,PartTime
+"$  2,000    -    $  2,499",8.8,8800,Females,PartTime
+"$  2,500    -    $  2,999",82.7,82700,Males,FullTime
+"$  2,500    -    $  2,999",81.3,81300,Females,FullTime
+"$  2,500    -    $  2,999",1.7,1700,Males,PartTime
+"$  2,500    -    $  2,999",4.1,4100,Females,PartTime
+"$  3,000    -    $  3,999",151.3,151300,Males,FullTime
+"$  3,000    -    $  3,999",145.4,145400,Females,FullTime
+"$  3,000    -    $  3,999",4.7,4700,Males,PartTime
+"$  3,000    -    $  3,999",5.9,5900,Females,PartTime
+"$  4,000    -    $  4,999",107.8,107800,Males,FullTime
+"$  4,000    -    $  4,999",104.8,104800,Females,FullTime
+"$  4,000    -    $  4,999",2.4,2400,Males,PartTime
+"$  4,000    -    $  4,999",3.0,3000,Females,PartTime
+"$  5,000    -    $  5,999",81.3,81300,Males,FullTime
+"$  5,000    -    $  5,999",79.0,79000,Females,FullTime
+"$  5,000    -    $  5,999",1.6,1600,Males,PartTime
+"$  5,000    -    $  5,999",2.3,2300,Females,PartTime
+"$  6,000    -    $  6,999",50.2,50200,Males,FullTime
+"$  6,000    -    $  6,999",49.2,49200,Females,FullTime
+"$  6,000    -    $  6,999",0.7,700,Males,PartTime
+"$  6,000    -    $  6,999",1.0,1000,Females,PartTime
+"$  7,000    -    $  7,999",40.6,40600,Males,FullTime
+"$  7,000    -    $  7,999",39.9,39900,Females,FullTime
+"$  7,000    -    $  7,999",0.5,500,Males,PartTime
+"$  7,000    -    $  7,999",0.8,800,Females,PartTime
+"$  8,000    -    $  8,999",29.4,29400,Males,FullTime
+"$  8,000    -    $  8,999",28.9,28900,Females,FullTime
+"$  8,000    -    $  8,999",0.2,200,Males,PartTime
+"$  8,000    -    $  8,999",0.4,400,Females,PartTime
+"$  9,000    -    $  9,999",22.1,22100,Males,FullTime
+"$  9,000    -    $  9,999",21.5,21500,Females,FullTime
+"$  9,000    -    $  9,999",0.1,100,Males,PartTime
+"$  9,000    -    $  9,999",0.5,500,Females,PartTime
+"$10,000    -    $10,999",21.4,21400,Males,FullTime
+"$10,000    -    $10,999",21.2,21200,Females,FullTime
+"$10,000    -    $10,999",0.5,500,Males,PartTime
+"$10,000    -    $10,999",0.2,200,Females,PartTime
+"$11,000    -    $11,999",12.1,12100,Males,FullTime
+"$11,000    -    $11,999",12.0,12000,Females,FullTime
+"$11,000    -    $11,999",0.1,100,Males,PartTime
+"$11,000    -    $11,999",0.1,100,Females,PartTime
+"$12,000    &    Over",52.3,52300,Males,FullTime
+"$12,000    &    Over",51.2,51200,Females,FullTime
+"$12,000    &    Over",0.9,900,Males,PartTime
+"$12,000    &    Over",1.1,1100,Females,PartTime
